@@ -1,0 +1,29 @@
+project-folder/
+index.html
+main.js
+assets/
+    player.png
+
+/* Game container */
+#game-container {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Start button */
+.start-button {
+    background-color: #ff5733;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Game text */
+.game-text {
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+}
