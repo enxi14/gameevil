@@ -27,3 +27,28 @@ assets/
     text-align: center;
     margin: 10px;
 }
+
+#game-container canvas {
+    /* Your styles go here */
+}
+
+#game-container canvas {
+    width: 800px;
+    height: 600px;
+}
+
+#game-container canvas {
+    border: 2px solid #fff;
+    /* White border */
+}
+
+#game-container canvas {
+    margin: 10px;
+    padding: 20px;
+}
+
+#game-container canvas {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
